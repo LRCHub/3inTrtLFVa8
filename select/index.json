@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ピーナッツくんのおまじない（feat. チャンチョ、オレンジ博士）",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-01-13T11:32:05.588106Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピーナッツくんのおまじない (feat. チャンチョ & オレンジ博士)",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_ピーナッツくんのおまじない_(feat._チャンチョ_&_オレンジ博士)_ピーナッツくん.txt"
+    }
+  ]
+}
